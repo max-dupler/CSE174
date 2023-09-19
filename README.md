@@ -6,7 +6,7 @@ An introduction to computer programming in a contemporary language. Algorithm de
 
 **Coursework Structure:**
 
-**13 Weekly labs:** Small assigments meant to demonstrate understanding of course content from the previous week.
+**12 Weekly labs:** Small assigments meant to demonstrate understanding of course content from the previous week. (Lab 7 is skipped)
 
 
 **4 Programming assignments:** Larger projects meant to combine multiple concepts from multiple weeks of course content.
