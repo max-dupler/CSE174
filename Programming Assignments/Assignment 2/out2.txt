@@ -1,0 +1,5 @@
+This is assignment two
+In assignment two you practice:
+a) problem solving
+b) working with files using loops
+Don't forget we will have the exam two after the break
