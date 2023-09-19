@@ -1,0 +1,7 @@
+small
+thin
+delivery
+pepperoni
+onions
+mushrooms
+anchovies
