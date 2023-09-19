@@ -5,6 +5,7 @@ Welcome to the GitHub repository for CSE 174 - Fundamentals of Programming and P
 An introduction to computer programming in a contemporary language. Algorithm development and refinement in problem solving. Modular programming using sequence, selection, and repetition control structures. Program debugging and testing. Formatted input/output. Data files. Fundamental data types. User-defined data types: structured and enumerated. Arrays and arrays of structures. Simple sorting and searching algorithms. Character data and string processing. Algorithm efficiency considerations. Classes, objects, and introduction to object-oriented programming.
 
 **Coursework Structure:**
+
 **13 Weekly labs:** Small assigments meant to demonstrate understanding of course content from the previous week.
 
 
